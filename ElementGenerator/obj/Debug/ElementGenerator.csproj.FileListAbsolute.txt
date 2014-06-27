@@ -1,0 +1,8 @@
+C:\Users\stephan.SITCSA.000\AppData\Local\Temporary Projects\ElementGenerator\bin\Debug\ElementGenerator.dll
+C:\Users\stephan.SITCSA.000\AppData\Local\Temporary Projects\ElementGenerator\bin\Debug\ElementGenerator.pdb
+C:\Users\stephan.SITCSA.000\AppData\Local\Temporary Projects\ElementGenerator\obj\Debug\ElementGenerator.dll
+C:\Users\stephan.SITCSA.000\AppData\Local\Temporary Projects\ElementGenerator\obj\Debug\ElementGenerator.pdb
+C:\Users\stephan.SITCSA.000\Documents\Visual Studio 2013\Projects\ElementGenerator\ElementGenerator\obj\Debug\ElementGenerator.dll
+C:\Users\stephan.SITCSA.000\Documents\Visual Studio 2013\Projects\ElementGenerator\ElementGenerator\obj\Debug\ElementGenerator.pdb
+C:\Users\stephan.SITCSA.000\Documents\Visual Studio 2013\Projects\ElementGenerator\ElementGenerator\bin\Debug\ElementGenerator.dll
+C:\Users\stephan.SITCSA.000\Documents\Visual Studio 2013\Projects\ElementGenerator\ElementGenerator\bin\Debug\ElementGenerator.pdb
